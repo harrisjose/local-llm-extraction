@@ -1,0 +1,17 @@
+{
+  "name": "local-llm-extraction",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "module": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.0.32",
+    "langchain": "^0.1.21",
+    "zod": "^3.22.4"
+  }
+}
